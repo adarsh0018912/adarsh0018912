@@ -1,4 +1,4 @@
-# Hey, I'm Adarsh Kumar Singh 👋
+ Hey, I'm Adarsh Kumar Singh 
 
 ### Software Engineering Student | Full-Stack Developer | AI Enthusiast
 
